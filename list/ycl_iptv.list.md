@@ -1,4 +1,4 @@
-# List for **YueChan-Live IPTV**
+# List for **YueChan-Live IPTV**(Rollback)
 
 > M3U: [ycl_iptv.m3u](/ycl_iptv.m3u), TXT: [ycl_iptv.txt](/txt/ycl_iptv.txt)
 
@@ -245,4 +245,4 @@
 | 239 | The Lego Channel | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8> |
 | 240 | NextUp Live Comedy | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8> |
 
-Updated at **Mon Apr 22 2024 14:07:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Apr 22 2024 16:09:20 GMT+0000 (Coordinated Universal Time)**
