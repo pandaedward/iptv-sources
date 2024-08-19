@@ -23,7 +23,7 @@
 [VGA]宁夏影视,https://stream1.freetv.fun/1efb86a608aab31587a906f0593be5a7359ba7c3bcdbb0fb2e3e8daf19e3c9ba.m3u8
 [BD]山东影视,https://stream1.freetv.fun/7cdae1dcbad9b24005d14f254436de3244b06dfe8d45594c44d7dde911f1a930.m3u8
 [BD]山西影视高清,https://stream1.freetv.fun/74b9d063257369fed9b509e41ba152c60b8106f21e5c8665d6a52728f3f47d3d.ctv
-[BD]广州影视,https://stream1.freetv.fun/4e7ee35686f9baf8445cf1699050cad59016e631eddd7e480132a1d2979f419b.ctv
+[BD]广州影视,https://stream1.freetv.fun/6569ff08025b99653d6173dccf5aafb69b2c79ab797d6b87e82bae00fedb4511.ctv
 [BD]广东影视,https://stream1.freetv.fun/0e5e1a883fa882ec8428eb963ec6a5ba550bb484275c587fc3ac41494acc96c5.m3u8
 [SD]广西影视高清,https://stream1.freetv.fun/19a8930c4c48aec7ed375445f32873f2c9db667f32313e14fe5d1ce04ddec78b.m3u8
 [BD]东方影视,https://stream1.freetv.fun/9d3c9f7982bce6a6d8c61dee6b3533032537b84c1312b8bf2613be972edfc0df.ctv

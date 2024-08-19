@@ -155,7 +155,7 @@
 | 149 | [SD]承德新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/5c0dfe6a3638b82d0c95726c165ac0cadb25c696589666af56eecdfe71226435.m3u8> |
 | 150 | [BD]康巴卫视高清 | stream1.freetv.fun | <https://stream1.freetv.fun/af2dac39927b833bcb5a0370424a07acf05f48fd8a33421bb934e39ba4a3cf92.ctv> |
 | 151 | [SD]厦门卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/a927444efa3d55d3d42d4d80fc9dd565caeae93fe0328d6e078367c2120df3d4.m3u8> |
-| 152 | [BD]广州影视 | stream1.freetv.fun | <https://stream1.freetv.fun/4e7ee35686f9baf8445cf1699050cad59016e631eddd7e480132a1d2979f419b.ctv> |
+| 152 | [BD]广州影视 | stream1.freetv.fun | <https://stream1.freetv.fun/6569ff08025b99653d6173dccf5aafb69b2c79ab797d6b87e82bae00fedb4511.ctv> |
 | 153 | [BD]广州新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/ce2e7e6464d84e68227189b299f83de79aa8d1b15a86d04702efef31854356b2.ctv> |
 | 154 | [BD]广州法治 | stream1.freetv.fun | <https://stream1.freetv.fun/34cada7034c531744e30611658e8b73d45843dbfedcf70638306dc3fc4f3babf.ctv> |
 | 155 | [BD]广州竞赛 | stream1.freetv.fun | <https://stream1.freetv.fun/c3217266cc75ed76bb805aee90e67ad0b53075de724f41e687f3c0c8d4bcd4a1.m3u8> |
@@ -454,4 +454,4 @@
 | 448 | [BD]黑龙江视 | stream1.freetv.fun | <https://stream1.freetv.fun/6e7e2ce60b35f196871c0dbc89fc0adaea8f23d50baadfb76c8cd769821d150a.ctv> |
 | 449 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Mon Aug 19 2024 06:12:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Aug 19 2024 08:12:16 GMT+0000 (Coordinated Universal Time)**
